@@ -63,7 +63,7 @@ Who am I
 <body>
    <div class="container">
     <h1 class="animated-text">VARUN HARIDAS</h1>
-    <p>I am a passionate and dedicated individual currently pursuing a Bachelor's degree in Artificial Intelligence at the Manipal Institute of Technology and Science (MITS). I also hold a diploma in Criminal Psychology. My diverse skill set, ranging from AI to construction design, reflects my commitment to continuous learning and personal growth.</p>
+    <p>I am a passionate and dedicated individual currently pursuing a Bachelor's degree in Artificial Intelligence at the Muthoot Institute of Technology and Science (MITS). I also hold a diploma in Criminal Psychology. My diverse skill set, ranging from AI to construction design, reflects my commitment to continuous learning and personal growth.</p>
 
     <h2>Education</h2>
     <ul>
